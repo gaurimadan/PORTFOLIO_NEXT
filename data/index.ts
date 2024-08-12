@@ -76,7 +76,7 @@ export const navItems = [
       des: "Developed and trained a ML model that utilizes KNN algorithm to recommend books.It is a collaborative recommendation system.",
       img: "/p1.svg",
       iconLists: ["/icons8-python.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      link: "https://github.com/gaurimadan/Book-Recommender-System",
     },
     {
       id: 2,
@@ -84,7 +84,7 @@ export const navItems = [
       des: "Designed an inclusive FinTech solution that empowers them to manage their money effectively and build a secure financial foundation.Investment recommendations and retirement planning.",
       img: "/Desktop - 4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      link: "https://github.com/gaurimadan/Expense-Tracker",
     },
     {
       id: 3,
@@ -92,7 +92,7 @@ export const navItems = [
       des: "Developed an AI SaaS application capable of generating photo, video, text, music, and code.Designed and managed databases using Prisma with MongoDB to track API usage and manage user data.Implemented mechanisms to track and limit API usage to prevent abuse and ensure fair usage.Created a user-friendly and responsive interface using shadcn UI",
       img: "/Screenshot from 2024-08-08 04-02-34.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      link: "https://github.com/gaurimadan/ZestAI",
     },
     {
       id: 4,
@@ -100,7 +100,7 @@ export const navItems = [
       des: " Developed an EHS solution for Indian industry that ensures healthy working conditions in industries.",
       img: "/p4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
+      link: "https://github.com/gaurimadan/Industry-management",
     },
   ];
   
