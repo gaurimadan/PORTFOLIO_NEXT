@@ -91,7 +91,7 @@ export const navItems = [
       title: "ZestAI - Text,Image, Video, Code, Music Generation App",
       des: "Developed an AI SaaS application capable of generating photo, video, text, music, and code.Designed and managed databases using Prisma with MongoDB to track API usage and manage user data.Implemented mechanisms to track and limit API usage to prevent abuse and ensure fair usage.Created a user-friendly and responsive interface using shadcn UI",
       img: "/Screenshot from 2024-08-08 04-02-34.png",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/c.svg"],
+      iconLists: ["/next.svg","/re.svg", "/tail.svg", "/ts.svg", "/c.svg"],
       link: "https://github.com/gaurimadan/ZestAI",
     },
     {
