@@ -141,6 +141,6 @@ export const navItems = [
     {
       id: 3,
       img: "/link.svg",
-      url:"https://www.instagram.com/_gaurimadaan__/"
+      url:"https://www.linkedin.com/in/gauri-madaan-b832a6252/"
     },
   ];
