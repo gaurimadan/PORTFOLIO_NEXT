@@ -69,7 +69,7 @@ const RecentProjects = () => {
                   <Link href={item.link} passHref>
                   
                   <p className="flex lg:text-xl md:text-xs text-sm text-purple">
-                    View Source Code
+                    Visit Website
                   </p>
                   </Link>
                   <FaLocationArrow className="ms-3" color="#CBACF9" />

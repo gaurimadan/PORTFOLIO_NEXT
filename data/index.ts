@@ -72,19 +72,19 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "Book Recommendation System",
+      title: "Interview Ascend- AI Powered Interview Practice Platform",
       des: "Developed and trained a ML model that utilizes KNN algorithm to recommend books.It is a collaborative recommendation system.",
       img: "/image.png",
-      iconLists: ["/icons8-python.svg"],
-      link: "https://github.com/gaurimadan/Book-Recommender-System",
+      iconLists: ["/icons8-python.svg","/next.svg", "/tail.svg", "/ts.svg"],
+      link: "https://ai-interview-ten-ashen.vercel.app/",
     },
     {
       id: 2,
-      title: "MoneyMaven- A finance tracking App",
+      title: "TextPosed- Whatsapp Chat Analyser",
       des: "Designed an inclusive FinTech solution that empowers them to manage their money effectively and build a secure financial foundation.Investment recommendations and retirement planning.",
-      img: "/Desktop - 4.svg",
+      img: "/image copy.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/gaurimadan/Expense-Tracker",
+      link: "https://textposed-ai.vercel.app/",
     },
     {
       id: 3,
@@ -96,11 +96,11 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Industrial Management System",
-      des: " Developed an EHS solution for Indian industry that ensures healthy working conditions in industries.",
-      img: "/facto.png",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/gaurimadan/Industry-management",
+      title: "Personalised Cold Email Generator",
+      des: "  It uses LangChain, Groq LLM (LLaMA-3.3-70B),Python and Web Scraping + LLM to extract job postings in structured JSON format.",
+      img: "/image copy 2.png",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/gsap.svg","/icons8-python.svg"],
+      link: "https://cold-email-5vyp.onrender.com/",
     },
   ];
   
